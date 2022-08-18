@@ -40,17 +40,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **David Vera**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-indigodavid-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/indigodavid)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-indigo1987-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/indigo1987)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-davidveracastillo-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/david-vera-castillo-001b5756/)
 
-👤 **Author2**
+👤 **Author 2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-author2-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/author2)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-author2-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/author2)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-author2-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/author2/)
 
 ## 🤝 Contributing
 
@@ -64,6 +64,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- My supportive family 😊
+- Microverse
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
@@ -72,4 +74,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
